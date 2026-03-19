@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "OCEANFIELD ACADEMY",
+    "slug": "oceanfield-academy",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#1a237e"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.oceanfield.academy"
+    }
+  }
+}
